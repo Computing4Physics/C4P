@@ -1,4 +1,4 @@
-<img src="../../C4PLogo.png" width=300 style="display: inline;"> Computing 4 Physics: Introduction to Scientific Computing
+Computing 4 Physics: Introduction to Scientific Computing
 =========================================================
 
 **Jennifer Klay**
@@ -18,4 +18,4 @@ Structure
 
 ---
 
-<img src="../../C4PLogo.png" width=200 style="display: inline;"> All content is under a modified MIT License, and can be freely used and adapted.  See the full license text [here](LICENSE).
+All content is under a modified MIT License, and can be freely used and adapted.  See the full license text [here](LICENSE).
