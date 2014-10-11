@@ -18,7 +18,7 @@ Structure
 
 ---
 
-**Note:** You can view the full repository of notebooks online by using [this link](http://nbviewer.ipython.org/github/Computing4Physics/C4P/blob/master/Index.ipynb).  This work was also presented at the [SciPy2014](https://conference.scipy.org/scipy2014/) conference in Austin, TX.  The [conference proceeding](http://scipy-conference.github.io/proceedings/2014/) provides a written summary of the course experience.  You can also view the video of my talk [here](https://www.youtube.com/watch?v=eJhmMf6bHDU&list=PLYx7XA2nY5GfuhCvStxgbynFNrxr3VFog&index=6).
+**Note:** You can view the full repository of notebooks online by using [this link](http://nbviewer.ipython.org/github/Computing4Physics/C4P/blob/master/Index.ipynb).  This work was also presented at the [SciPy2014](https://conference.scipy.org/scipy2014/) conference in Austin, TX.  The [conference proceeding](http://scipy-conference.github.io/proceedings/2014/) provides a written summary of the course experience.  You can also view the video of my talk [here](https://www.youtube.com/watch?v=eJhmMf6bHDU).
 
 ---
 
