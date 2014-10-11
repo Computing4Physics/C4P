@@ -7,7 +7,7 @@ Computing 4 Physics: Introduction to Scientific Computing
 
 **June 20, 2014**
 
-This repository contains all the curriculum and materials for a basic course in scientific computing for physicists.  The materials were initially developed over the span of two years (2012-2014) by Jennifer Klay in collaboration with Brian Granger at Cal Poly for the course PHYS 202: Physics on the Computer, a 4-unit introductory course taken by sophomore undergraduate physics majors after completion of their introductory physics and math courses.
+This repository contains all the curriculum and materials for a basic course in scientific computing for physicists.  The materials were initially developed over the span of three years (2012-2014) by Jennifer Klay in collaboration with Brian Granger at Cal Poly for the course PHYS 202: Physics on the Computer, a 4-unit introductory course taken by sophomore undergraduate physics majors after completion of their introductory physics and math courses.
 
 
 Structure
