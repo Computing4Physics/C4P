@@ -32,9 +32,9 @@ while IFS=$'\t' read -r -a myArray; do
    echo "+++++++++++++++++++++++++++++"
    echo Name: $LAST, $FIRST EMAIL: $EMAIL
    echo "+++++++++++++++++++++++++++++"
-   export REPLYTO="jklay@calpoly.edu"
-   TO_ADDRESS="${EMAIL}@calpoly.edu, jklay@calpoly.edu"
-   FROM_ADDRESS="jklay@calpoly.edu"
+   export REPLYTO="jklay@university.edu"
+   TO_ADDRESS="${EMAIL}@university.edu, jklay@university.edu"
+   FROM_ADDRESS="jklay@university.edu"
    SUBJECT="Graded ${ASSIGNMENT}"
    BODY1="Hi ${FIRST},
 Here are the grader's comments, notes and scores for your ${ASSIGNMENT}.
